@@ -1,2 +1,2 @@
-# docker-jenkins-integration-sample
+# simple-git-jenkins-docker-app
 

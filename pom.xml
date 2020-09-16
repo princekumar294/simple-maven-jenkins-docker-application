@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wittyminds</groupId>
-    <artifactId>docker-jenkins-integration-sample</artifactId>
+    <artifactId>simple-git-jenkins-docker-app</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalName>docker-jenkins-integration-sample</finalName>
+    <finalName>simple-git-jenkins-docker-app</finalName>
 </build>
 
 </project>
